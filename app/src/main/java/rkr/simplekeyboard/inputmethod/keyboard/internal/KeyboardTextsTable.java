@@ -228,6 +228,8 @@ public final class KeyboardTextsTable {
         /* 153: 0 */ "keylabel_to_phone_symbols",
         /* 154: 0 */ "keylabel_time_am",
         /* 155: 0 */ "keylabel_time_pm",
+        /* 156: 0 */ "keyspec_popular_domain",
+        /* 157: 0 */ "morekeys_popular_domain",
         /* 158: 0 */ "keyspecs_left_parenthesis_more_keys",
         /* 159: 0 */ "keyspecs_right_parenthesis_more_keys",
         /* 160: 0 */ "single_laqm_raqm",
@@ -421,6 +423,9 @@ public final class KeyboardTextsTable {
         /* keylabel_time_am */ "AM",
         // Key label for "post meridiem"
         /* keylabel_time_pm */ "PM",
+        /* keyspec_popular_domain */ ".com",
+        // popular web domains for the locale - most popular, displayed on the keyboard
+        /* morekeys_popular_domain */ "!hasLabels!,.net,.org,.gov,.edu",
         /* keyspecs_left_parenthesis_more_keys */ "!text/keyspec_less_than,!text/keyspec_left_curly_bracket,!text/keyspec_left_square_bracket",
         /* keyspecs_right_parenthesis_more_keys */ "!text/keyspec_greater_than,!text/keyspec_right_curly_bracket,!text/keyspec_right_square_bracket",
         // The following characters don't need BIDI mirroring.
